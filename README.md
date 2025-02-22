@@ -6,7 +6,7 @@ Mr. Nagendhar is a specialist in Linux networking, VM infrastructure, and cybers
 - 🔭 I’m currently working on [ShadowAP](https://github.com/nagu18/ShadowAP.git)
 
 ### 📫 Connect with Me
-- 🌐 **GitHub**: [github.com/yourusername](https://github.com/nagu18)
+- 🌐 **GitHub**: [github.com/nagu18](https://github.com/nagu18)
 - 🔗 **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
 - 📧 **Email**: your.email@example.com
 
