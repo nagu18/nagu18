@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm **Nagendhar** – Cyber Student & SOC Analyst!
+## 👋 Hey there, I'm **Nagendhar** – Cyber-Student
 
 ### 🚀 About Me
 Mr. Nagendhar is a specialist in Linux networking, VM infrastructure, and cybersecurity. With expertise in **pfSense, Ubuntu Server administration, and Kali Linux**, he seamlessly integrates security into network operations. As the creator of offensive security tools like **WiFi_Shadow and GostGraber**, he thrives on exploring vulnerabilities and strengthening defenses. Whether configuring **IPTables, analyzing threats as a SOC analyst, or automating security workflows with Docker**, his approach to cybersecurity is both strategic and hands-on.
@@ -7,7 +7,7 @@ Mr. Nagendhar is a specialist in Linux networking, VM infrastructure, and cybers
 
 ### 📫 Connect with Me
 - 🌐 **GitHub**: [github.com/nagu18](https://github.com/nagu18)
-- 🔗 **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- 🔗 **LinkedIn**: [linkedin.com/in/konda-nagendar-82a57b26a](https://linkedin.com/in/konda-nagendar-82a57b26a)
 - 📧 **Email**: your.email@example.com
 
 ### 🔥 Languages and Tools
