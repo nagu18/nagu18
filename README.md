@@ -23,6 +23,8 @@ Mr. Nagendhar is a specialist in Linux networking, VM infrastructure, and cybers
   <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Splunk_logo.png" width="90" height="40"/> </a> 
   <a href="https://www.pfsense.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/PfSense_logo.svg" alt="pfSense" width="80" height="40"/> </a> 
   <a href="https://www.networking.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="Networking" width="80" height="40"/> </a> 
+    <a href="https://www.networking.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Networking" width="100" height="100"/> </a> 
+
 </p>
 
 ---
