@@ -7,7 +7,7 @@ I'm passionate about cybersecurity, networking, and automation. My expertise lie
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Kali-linux-logo.svg" width="50" height="50" alt="Kali Linux"/>
+  <img src="https://images.seeklogo.com/logo-png/43/1/kali-linux-logo-png_seeklogo-434141.png" width="50" height="50" alt="Kali Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50" height="50" alt="Ubuntu"/>
   <img src="https://www.pfsense.org/img/logo.svg" width="80" height="40" alt="pfSense"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Iptables_logo.png" width="80" height="40" alt="IPTables"/>
