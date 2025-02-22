@@ -1,6 +1,6 @@
-## 👋 Hey there, I'm **Nagendhar** – CyberSecurity Student 🧑‍🎓📚💻
+## 👋 Hey there, Mr. **Nagendhar** – CyberSecurity Student 🧑‍🎓📚💻
 
-### 🚀 About Me
+### 🚀 About Mr. Nagendar 
 Mr. Nagendhar is a specialist in Linux networking, VM infrastructure, and cybersecurity. With expertise in **pfSense, Ubuntu Server administration, and Kali Linux**, he seamlessly integrates security into network operations. As the creator of offensive security tools like **WiFi_Shadow and GostGraber**, he thrives on exploring vulnerabilities and strengthening defenses. Whether configuring **IPTables, analyzing threats as a SOC analyst, or automating security workflows with Docker**, his approach to cybersecurity is both strategic and hands-on.
 
 - 🔭 I’m currently working on [ShadowAP](https://github.com/nagu18/ShadowAP.git)
