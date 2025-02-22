@@ -21,7 +21,7 @@ Mr. Nagendhar is a specialist in Linux networking, VM infrastructure, and cybers
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/> </a> 
   <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Splunk_logo.png" alt="Splunk" width="80" height="40"/> </a> 
-  <a href="https://www.pfsense.org/" target="_blank" rel="noreferrer"> <img src="https://www.netgate.com/images/pfsense-logo.svg" alt="pfSense" width="80" height="40"/> </a> 
+  <a href="https://www.pfsense.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/PfSense_logo.svg" alt="pfSense" width="80" height="40"/> </a> 
   <a href="https://www.networking.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Networking" width="40" height="40"/> </a> 
 </p>
 
