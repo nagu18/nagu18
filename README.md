@@ -7,7 +7,7 @@ Mr. Nagendhar is a specialist in Linux networking, VM infrastructure, and cybers
 
 ### 📫 Connect with Me
 - 🌐 **GitHub**: [github.com/nagu18](https://github.com/nagu18)
-- 🔗 **LinkedIn**: [linkedin.com/in/konda-nagendar-82a57b26a](https://linkedin.com/in/konda-nagendar-82a57b26a)
+- 🔗 **LinkedIn**: [linkedin.com/in/Konda Nagendar Mudhraj](https://linkedin.com/in/konda-nagendar-82a57b26a)
 - 📧 **Email**: your.email@example.com
 
 ### 🔥 Languages and Tools
