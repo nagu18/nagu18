@@ -1,36 +1,29 @@
 ## 👋 Hey there, I'm **Nagendhar** – Cyber Student & SOC Analyst!
 
 ### 🚀 About Me
-I'm passionate about cybersecurity, networking, and automation. My expertise lies in **Linux Networking, Kali Linux, Ubuntu Server, pfSense, IPTables, Splunk, Docker**, and more. I enjoy working on cybersecurity projects, scripting, and contributing to open-source security tools.
+Mr. Nagendhar is a specialist in Linux networking, VM infrastructure, and cybersecurity. With expertise in **pfSense, Ubuntu Server administration, and Kali Linux**, he seamlessly integrates security into network operations. As the creator of offensive security tools like **WiFi_Shadow and GostGraber**, he thrives on exploring vulnerabilities and strengthening defenses. Whether configuring **IPTables, analyzing threats as a SOC analyst, or automating security workflows with Docker**, his approach to cybersecurity is both strategic and hands-on.
 
-### 🔥 Skills & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
-  <img src="https://images.seeklogo.com/logo-png/43/1/kali-linux-logo-png_seeklogo-434141.png" width="50" height="50" alt="Kali Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50" height="50" alt="Ubuntu"/>
-  <img src="https://www.pfsense.org/img/logo.svg" width="80" height="40" alt="pfSense"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Iptables_logo.png" width="80" height="40" alt="IPTables"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/8b/Splunk_Logo.svg" width="80" height="40" alt="Splunk"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
-</p>
-
-### 🔭 Current Focus
-- 🏗 Learning & implementing **pfSense and Linux Networking**
-- 🛡️ Developing **cybersecurity projects** to showcase on GitHub
-- 📖 Writing a **book on Linux Networking & IPTables**
-
-### 📂 My Projects
-- 🔍 **SOC Analyst Projects** – Threat hunting, SIEM rules, and analysis
-- 📡 **Networking Labs** – Configuring DHCP (KEA), firewall rules, and VLAN setups
-- 🖥️ **Automation Scripts** – Linux security scripts and automation tools
-- 🛠 **Dockerized Security Tools** – Containerized cybersecurity utilities
+- 🔭 I’m currently working on [ShadowAP](https://github.com/nagu18/ShadowAP.git)
 
 ### 📫 Connect with Me
 - 🌐 **GitHub**: [github.com/yourusername](https://github.com/yourusername)
 - 🔗 **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
 - 📧 **Email**: your.email@example.com
+
+### 🔥 Languages and Tools
+<p align="left"> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/> </a> 
+  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Splunk_logo.png" alt="Splunk" width="80" height="40"/> </a> 
+  <a href="https://www.pfsense.org/" target="_blank" rel="noreferrer"> <img src="https://www.netgate.com/images/pfsense-logo.svg" alt="pfSense" width="80" height="40"/> </a> 
+  <a href="https://www.networking.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Networking" width="40" height="40"/> </a> 
+</p>
 
 ---
 🔒 *“Cybersecurity is not a product, but a process.”* – Bruce Schneier
