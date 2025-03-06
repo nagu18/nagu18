@@ -1,9 +1,20 @@
 ## 👋 Hey there, Mr. **Nagendhar** – CyberSecurity Student 🧑‍🎓📚💻
+<img src="https://github.com/nagu18/nagu18/blob/main/image.png" alt="Scorpion Logo" width="200">  
 
-### 🚀 About Mr. Nagendar 
-Mr. Nagendhar is a specialist in Linux networking, VM infrastructure, and cybersecurity. With expertise in **pfSense, Ubuntu Server administration, and Kali Linux**, he seamlessly integrates security into network operations. As the creator of offensive security tools like **WiFi_Shadow and GostGraber**, he thrives on exploring vulnerabilities and strengthening defenses. Whether configuring **IPTables, analyzing threats as a SOC analyst, or automating security workflows with Docker**, his approach to cybersecurity is both strategic and hands-on.
 
-- 🔭 I’m currently working on [ShadowAP](https://github.com/nagu18/ShadowAP.git)
+
+
+
+######  Mr. Nagendhar – Founder of Scorp-Security | The Next-Gen Cyber Arsenal
+
+
+Mr. Nagendhar is a specialist in network security, virtualization, and cybersecurity operations. With hands-on expertise in configuring and securing enterprise infrastructure, he seamlessly integrates security into network operations. As the creator of offensive security tools, he thrives on exploring vulnerabilities and strengthening defenses. Whether analyzing threats, optimizing security workflows, or working on advanced security automation, his approach to cybersecurity is both strategic and practical.
+
+🛠️ He also works extensively in private repositories, where he develops advanced cyber-tech solutions, security automation, cloud infrastructure, and penetration testing tools. His private work focuses on network security, virtualization, and enterprise defense strategies, continuously pushing the boundaries of cybersecurity.
+
+🔬 I’m currently working on ShadowAP – A powerful access point attack framework designed for security testing and penetration testing scenarios.
+
+🔧 Currently working on private repositories, developing cutting-edge security solutions and research projects.
 
 ### 📫 Connect with Me
 - 🌐 **GitHub**: [github.com/nagu18](https://github.com/nagu18)
